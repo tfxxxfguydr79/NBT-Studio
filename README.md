@@ -1,4 +1,5 @@
 <img width="1174" height="645" alt="mmm1" src="https://github.com/user-attachments/assets/01ce03ef-6290-41cd-a67b-f54defe893f1" />
+
 # NBT Studio (Beta 1.2)
 
 A simple editor for Minecraft save data.
@@ -22,3 +23,9 @@ Go to Releases (on the right side of this page) and download the file for your s
 - Bedrock level.dat: raw editing only
 
 This is a beta. Keep a backup of worlds you care about.
+
+## guide
+
+- Here how to make it work on Linux. First, download the NBTStudio-Beta-1.2-linux-x64.tar.gz
+
+- Now it's extracted. When you extracted it, you should get this. NBTStudio-Beta-1.2-linux-x64 If double clicking on it doesn't work, you need to do something else to make it work. Right-click it, and then. properties and Inside of that, you need to find permission. When you find the permission, then look for program. Then check Allow this file to run as a program. Click close, or do whatever to make the settings stay. Then, when you're done with that, right-click it again. It should say execute. Then just click the execute, and it should start up. 👍
