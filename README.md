@@ -24,8 +24,57 @@ Go to Releases (on the right side of this page) and download the file for your s
 
 This is a beta. Keep a backup of worlds you care about.
 
-## guide
+## Guide – How to Install and Run NBT Studio on Linux
 
-- Here how to make it work on Linux. First, download the NBTStudio-Beta-1.2-linux-x64.tar.gz
+Follow these steps to get NBT Studio running on your Linux computer. You don't need to use the terminal.
 
-- Now it's extracted. When you extracted it, you should get this. NBTStudio-Beta-1.2-linux-x64 If double clicking on it doesn't work, you need to do something else to make it work. Right-click it, and then. properties and Inside of that, you need to find permission. When you find the permission, then look for program. Then check Allow this file to run as a program. Click close, or do whatever to make the settings stay. Then, when you're done with that, right-click it again. It should say execute. Then just click the execute, and it should start up. 👍
+### Step 1 – Download NBT Studio
+
+1. Go to the **Download** section above.
+2. Download `NBTStudio-Beta-1.2-linux-x64.tar.gz`.
+3. Wait for the download to finish.
+
+### Step 2 – Extract the Download
+
+1. Open your **Downloads** folder.
+2. Find the file named `NBTStudio-Beta-1.2-linux-x64.tar.gz`.
+3. Right-click the file.
+4. Select **Extract Here** or **Extract To...**.
+5. Wait for the extraction to finish.
+
+You should now have a folder named something like `NBTStudio-Beta-1.2-linux-x64`.
+
+**Important:** Don't try to run the `.tar.gz` archive directly. You need to extract it first.
+
+### Step 3 – Allow NBT Studio to Run
+
+Linux may prevent downloaded applications from running until you give them permission.
+
+1. Open the extracted NBT Studio folder.
+2. Find the main application executable (the file you use to launch NBT Studio).
+3. Right-click it and select **Properties**.
+4. Open the **Permissions** tab.
+5. Find the option called **Allow this file to run as a program**.
+6. Enable that option.
+7. Close the Properties window.
+
+### Step 4 – Launch NBT Studio
+
+1. Right-click the executable again.
+2. Select **Execute**, **Run**, or the equivalent option shown by your Linux desktop.
+3. NBT Studio should now start!
+
+If double-clicking the application doesn't work, try the right-click menu instead.
+
+### Having Problems?
+
+If NBT Studio still doesn't start:
+
+- Make sure you extracted the archive completely.
+- Make sure you enabled the executable permission.
+- Make sure you're running the application from the extracted folder.
+- Check that your system supports the Linux x64 build.
+
+If you still have problems, feel free to report the issue on the GitHub repository.
+
+**Enjoy using NBT Studio!** 👍
