@@ -1,3 +1,4 @@
+<img width="1174" height="645" alt="mmm1" src="https://github.com/user-attachments/assets/01ce03ef-6290-41cd-a67b-f54defe893f1" />
 # NBT Studio (Beta 1.2)
 
 A simple editor for Minecraft save data.
